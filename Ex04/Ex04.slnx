@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ex04/Ex04.csproj" />
+  <Project Path="Q3/Q3.csproj" />
+  <Project Path="Q4/Q4.csproj" />
+  <Project Path="Q5/Q5.csproj" />
+</Solution>

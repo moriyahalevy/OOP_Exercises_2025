@@ -1,3 +1,7 @@
 <Solution>
   <Project Path="Ex03/Ex03.csproj" />
+  <Project Path="Q1/Q1.csproj" Id="ff359da5-2889-4eaf-abf9-9aae3bb3cdea" />
+  <Project Path="Q2/Q2.csproj" Id="53bb1a77-d884-49a1-a454-cb12b24983eb" />
+  <Project Path="Q6/Q6.csproj" Id="98c95f40-2e3b-49ab-bc06-24af41a60213" />
+  <Project Path="Q7/Q7.csproj" Id="f65b6243-cda5-47da-9479-ec6cc987b07e" />
 </Solution>
